@@ -1,6 +1,6 @@
 # AMPLIFY — AI-Powered Sales Prospecting & MCP Integration
 
-**Status:** Implemented, functionally tested and published to production (author-reported).
+**Status:** Implemented, functionally tested and published to production.
 **Project owner and implementation:** Wagner Stoffel  
 **Domain:** B2B sales intelligence · Agentic AI · Business process automation
 
